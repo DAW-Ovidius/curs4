@@ -1,0 +1,20 @@
+{
+  "name": "curs4",
+  "homepage": "https://github.com/DAW-Ovidius/curs4",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "1.9.1"
+  }
+}
